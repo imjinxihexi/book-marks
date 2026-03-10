@@ -12,3 +12,7 @@ https://uiverse.io/MikeAndrewDesigner/fast-octopus-78
 https://github.com/umijs/umi/issues/7474
 
 AI 提示词网站：https://www.aishort.top/?tags=interesting
+
+
+一句话总结
+<td> 设 height: 1px 不改变实际渲染高度，但让浏览器建立了高度继承链，使内部子元素的 height: 100% 能正确计算。这是 CSS 表格布局中让子元素撑满单元格的经典技巧。
